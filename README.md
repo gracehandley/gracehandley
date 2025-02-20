@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I'm a data scientist & analytics professional with a background in social neuroscience research 🧠📊. I specialize in using SQL, R, Python, and Tableau to uncover insights and drive data-informed decisions. I am always exploring new tools and techniques. Passionate about education, healthcare, and behavioral science, I love turning complex data into actionable stories! 🚀
+
 <!--
 **gracehandley/gracehandley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
