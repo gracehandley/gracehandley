@@ -1,6 +1,8 @@
 ## 👋 Hi, I'm Grace!
 
-I'm a data scientist & analytics professional with a background in social neuroscience research 🧠📊. I specialize in using **SQL**, **R**, **Python**, and **Tableau** to uncover insights and drive data-informed decisions. I am always exploring new tools and techniques. Passionate about education, healthcare, and behavioral science, I love turning complex data into actionable stories! 🚀
+I'm a data scientist & analytics professional with a background in social neuroscience research 🧠📊. I specialize in using **SQL**, **R**, **Python**, and **Tableau** to uncover insights and drive data-informed decisions. I am always exploring new tools and techniques 🌱.
+
+This GitHub includes a mix of personal projects and professional development work, showcasing my ongoing learning and expertise in analytics and data science.
 
 <!--
 **gracehandley/gracehandley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
